@@ -1,7 +1,7 @@
 
-*.vmat
+*.gitignore
 *.png
 *.fbx
-*.vmdl
 *.dmx
-*.gitignore
+*.vmat
+*.vmdl
