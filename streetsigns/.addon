@@ -1,0 +1,15 @@
+{
+  "SharedAssets": "*",
+  "Title": "Streetsigns",
+  "Type": "game",
+  "Org": "local",
+  "Ident": "streetsigns",
+  "FullIdent": "local.streetsigns",
+  "Schema": 1,
+  "NeedsUpgrade": false,
+  "HasAssets": true,
+  "AssetsPath": "",
+  "HasCode": true,
+  "CodePath": "code",
+  "RootNamespace": "Sandbox"
+}
