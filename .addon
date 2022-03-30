@@ -1,7 +1,6 @@
 {
-  "SharedAssets": "*.*",
   "Title": "Streetsigns",
-  "Type": "game",
+  "Type": "content",
   "Org": "Baik",
   "Ident": "streetsigns",
   "Schema": 1,
@@ -9,6 +8,7 @@
   "AssetsPath": "",
   "ResourcePaths": null,
   "HasCode": false,
-  "CodePath": "code",
-  "RootNamespace": "Sandbox"
+  "CodePath": null,
+  "RootNamespace": "Sandbox",
+  "Metadata": {}
 }
