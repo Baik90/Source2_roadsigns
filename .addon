@@ -1,8 +1,8 @@
 {
-  "Title": "Streetsigns",
+  "Title": "Roadsigns",
   "Type": "content",
   "Org": "Baik",
-  "Ident": "streetsigns",
+  "Ident": "roadsigns",
   "Schema": 1,
   "HasAssets": true,
   "AssetsPath": "",
