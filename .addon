@@ -3,6 +3,7 @@
   "Type": "content",
   "Org": "baik",
   "Ident": "roadsigns",
+  "Tags": null,
   "Schema": 1,
   "HasAssets": true,
   "AssetsPath": "",
