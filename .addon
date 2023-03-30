@@ -10,5 +10,10 @@
   "ResourcePaths": null,
   "HasCode": false,
   "CodePath": null,
-  "Metadata": {}
+  "PackageReferences": [],
+  "Metadata": {
+    "Summary": "",
+    "Description": "",
+    "Public": false
+  }
 }
